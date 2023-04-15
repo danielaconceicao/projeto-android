@@ -5,7 +5,7 @@
 @font-face {
     font-family: 'Android';
     src: url('../fontes/idroid.otf') format('opentype');
-    font-weight: normal.;
+    font-weight: normal;
 }
 
 
@@ -63,7 +63,7 @@ header > p{
     max-width: 600px; /* Largura maxima do paragrafo*/
     padding-right: 10px;
     padding-left: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 50px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.422);
 }
